@@ -1,0 +1,6 @@
+C:\Users\Женя\Desktop\Проекты VS\SimmetricMatrix\SimmetricMatrix\bin\Debug\SimmetricMatrix.exe.config
+C:\Users\Женя\Desktop\Проекты VS\SimmetricMatrix\SimmetricMatrix\bin\Debug\SimmetricMatrix.exe
+C:\Users\Женя\Desktop\Проекты VS\SimmetricMatrix\SimmetricMatrix\bin\Debug\SimmetricMatrix.pdb
+C:\Users\Женя\Desktop\Проекты VS\SimmetricMatrix\SimmetricMatrix\obj\Debug\SimmetricMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Женя\Desktop\Проекты VS\SimmetricMatrix\SimmetricMatrix\obj\Debug\SimmetricMatrix.exe
+C:\Users\Женя\Desktop\Проекты VS\SimmetricMatrix\SimmetricMatrix\obj\Debug\SimmetricMatrix.pdb
